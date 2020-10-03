@@ -1,0 +1,25 @@
+{
+	"profiles":[
+		{
+			"name":"T.Vyshnavi",
+			"role":"Student",
+			"email":"vyshu@gmail.com",
+			"phone":9864741233
+
+		},{
+			"name":"T.Vineeth",
+			"role":"employee",
+			"email":"nani@gmail.com",
+			"phone":9864522643
+
+
+		},
+		{
+			"name":"T.Sridevi",
+			"role":"House wife",
+			"email":"sri@gmail.com",
+			"phone":9864789696
+
+
+		}]
+}
